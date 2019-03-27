@@ -25,12 +25,24 @@ U2.1
 U2.1
 U2.1
 U2.1
+new line
 U2.1
+new line
+new line
+new line
+new line
+new line
 U2.1
+U2.1modified line
 U2.1
-U2.1
-U2.1
-U2.1
+new line
+new line
+new line
+new line
+new line
+new line
+new line
+following are some removed lines
 U2.1
 U2.1
 U2.1
